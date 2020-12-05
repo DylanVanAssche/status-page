@@ -8,6 +8,8 @@ sites:
     url: https://www.dylanvanassche.be
   - name: Matrix
     url: https://chat.dylanvanassche.be
+  - name: Riot/Element
+    url: https://riot.dylanvanassche.be
   - name: CalDAV/CardDAV
     url: https://caldav.dylanvanassche.be
   - name: Master's thesis
