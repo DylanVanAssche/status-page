@@ -6,15 +6,15 @@ repo: status-page # Your Github repository name
 sites:
   - name: Personal website
     url: https://www.dylanvanassche.be
-  - name: Matrix service
+  - name: Matrix
     url: https://chat.dylanvanassche.be
-  - name: Riot/Element chat
+  - name: Riot
     url: https://riot.dylanvanassche.be
-  - name: CalDAV/CardDAV service
+  - name: Radicale
     url: https://caldav.dylanvanassche.be
-  - name: Master's thesis website
+  - name: Thesis
     url: https://thesis.dylanvanassche.be
-  - name: Sailfinder's website
+  - name: Sailfinder
     url: https://sailfinder.dylanvanassche.be
   - name: De Pijl VZW
     url: https://www.de-pijl.be
