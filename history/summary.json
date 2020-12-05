@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 625,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625
+    "time": 608,
+    "timeDay": 608,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608
   },
   {
     "name": "Matrix",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 1105,
-    "timeWeek": 1105,
-    "timeMonth": 1105,
-    "timeYear": 1105
+    "time": 1189,
+    "timeDay": 1189,
+    "timeWeek": 1189,
+    "timeMonth": 1189,
+    "timeYear": 1189
   },
   {
     "name": "CalDAV/CardDAV",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1285,
-    "timeDay": 1285,
-    "timeWeek": 1285,
-    "timeMonth": 1285,
-    "timeYear": 1285
+    "time": 1211,
+    "timeDay": 1211,
+    "timeWeek": 1211,
+    "timeMonth": 1211,
+    "timeYear": 1211
   },
   {
     "name": "Master's thesis",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414
+    "time": 435,
+    "timeDay": 435,
+    "timeWeek": 435,
+    "timeMonth": 435,
+    "timeYear": 435
   },
   {
     "name": "Sailfinder",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443
   }
 ]
