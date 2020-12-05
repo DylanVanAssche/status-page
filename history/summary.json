@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 557,
-    "timeWeek": 557,
-    "timeMonth": 557,
-    "timeYear": 557
+    "time": 549,
+    "timeDay": 549,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549
   },
   {
     "name": "Matrix service",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1109,
-    "timeDay": 1109,
-    "timeWeek": 1109,
-    "timeMonth": 1109,
-    "timeYear": 1109
+    "time": 1065,
+    "timeDay": 1065,
+    "timeWeek": 1065,
+    "timeMonth": 1065,
+    "timeYear": 1065
   },
   {
     "name": "Riot/Element chat",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551
   },
   {
     "name": "CalDAV/CardDAV service",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 1079,
-    "timeWeek": 1079,
-    "timeMonth": 1079,
-    "timeYear": 1079
+    "time": 1026,
+    "timeDay": 1026,
+    "timeWeek": 1026,
+    "timeMonth": 1026,
+    "timeYear": 1026
   },
   {
     "name": "Master's thesis website",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 405,
-    "timeWeek": 405,
-    "timeMonth": 405,
-    "timeYear": 405
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371
   },
   {
     "name": "Sailfinder's website",
@@ -89,10 +89,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 417,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436
+  },
+  {
+    "name": "De Pijl VZW",
+    "url": "https://www.de-pijl.be",
+    "slug": "de-pijl-vzw",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 329,
+    "timeDay": 329,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329
   }
 ]
