@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 592,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592
+    "time": 570,
+    "timeDay": 570,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570
   },
   {
     "name": "Matrix",
@@ -25,11 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 1136,
-    "timeWeek": 1136,
-    "timeMonth": 1136,
-    "timeYear": 1136
+    "time": 1119,
+    "timeDay": 1119,
+    "timeWeek": 1119,
+    "timeMonth": 1119,
+    "timeYear": 1119
+  },
+  {
+    "name": "Riot/Element",
+    "url": "https://riot.dylanvanassche.be",
+    "slug": "riot-element",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 741,
+    "timeDay": 741,
+    "timeWeek": 741,
+    "timeMonth": 741,
+    "timeYear": 741
   },
   {
     "name": "CalDAV/CardDAV",
@@ -41,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 1159,
-    "timeWeek": 1159,
-    "timeMonth": 1159,
-    "timeYear": 1159
+    "time": 1152,
+    "timeDay": 1152,
+    "timeWeek": 1152,
+    "timeMonth": 1152,
+    "timeYear": 1152
   },
   {
     "name": "Master's thesis",
@@ -57,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423
+    "time": 366,
+    "timeDay": 366,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 366
   },
   {
     "name": "Sailfinder",
@@ -73,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 389,
-    "timeWeek": 389,
-    "timeMonth": 389,
-    "timeYear": 389
+    "time": 352,
+    "timeDay": 352,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 352
   }
 ]
