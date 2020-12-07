@@ -2,6 +2,7 @@
   {
     "name": "Personal website",
     "url": "https://www.dylanvanassche.be",
+    "icon": "https://favicons.githubusercontent.com/www.dylanvanassche.be",
     "slug": "personal-website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
-    "timeDay": 512,
+    "timeDay": 520,
     "timeWeek": 512,
     "timeMonth": 512,
-    "timeYear": 512
+    "timeYear": 512,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matrix",
     "url": "https://chat.dylanvanassche.be",
+    "icon": "https://favicons.githubusercontent.com/chat.dylanvanassche.be",
     "slug": "matrix",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 1139,
-    "timeWeek": 1139,
-    "timeMonth": 1139,
-    "timeYear": 1139
+    "time": 1128,
+    "timeDay": 1063,
+    "timeWeek": 1128,
+    "timeMonth": 1128,
+    "timeYear": 1128,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Riot",
     "url": "https://riot.dylanvanassche.be",
+    "icon": "https://favicons.githubusercontent.com/riot.dylanvanassche.be",
     "slug": "riot",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 733,
-    "timeWeek": 733,
-    "timeMonth": 733,
-    "timeYear": 733
+    "time": 693,
+    "timeDay": 615,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radicale",
     "url": "https://caldav.dylanvanassche.be",
+    "icon": "https://favicons.githubusercontent.com/caldav.dylanvanassche.be",
     "slug": "radicale",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +64,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 984,
-    "timeWeek": 984,
-    "timeMonth": 984,
-    "timeYear": 984
+    "time": 1005,
+    "timeDay": 1047,
+    "timeWeek": 1005,
+    "timeMonth": 1005,
+    "timeYear": 1005,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thesis",
     "url": "https://thesis.dylanvanassche.be",
+    "icon": "https://favicons.githubusercontent.com/thesis.dylanvanassche.be",
     "slug": "thesis",
     "status": "up",
     "uptime": "100.00%",
@@ -73,15 +82,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 261,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261
+    "time": 311,
+    "timeDay": 410,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sailfinder",
     "url": "https://sailfinder.dylanvanassche.be",
+    "icon": "https://favicons.githubusercontent.com/sailfinder.dylanvanassche.be",
     "slug": "sailfinder",
     "status": "up",
     "uptime": "100.00%",
@@ -89,15 +100,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338
+    "time": 342,
+    "timeDay": 369,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
+    "dailyMinutesDown": {}
   },
   {
     "name": "De Pijl VZW",
     "url": "https://www.de-pijl.be",
+    "icon": "https://favicons.githubusercontent.com/www.de-pijl.be",
     "slug": "de-pijl-vzw",
     "status": "up",
     "uptime": "100.00%",
@@ -105,10 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 336,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 336
+    "time": 342,
+    "timeDay": 360,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
+    "dailyMinutesDown": {}
   }
 ]
