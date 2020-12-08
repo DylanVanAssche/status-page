@@ -22,19 +22,19 @@
     "url": "https://chat.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/chat.dylanvanassche.be",
     "slug": "matrix",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1103,
-    "timeDay": 1015,
-    "timeWeek": 1103,
-    "timeMonth": 1103,
-    "timeYear": 1103,
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 1089,
+    "timeDay": 997,
+    "timeWeek": 1089,
+    "timeMonth": 1089,
+    "timeYear": 1089,
     "dailyMinutesDown": {
-      "2020-12-08": 1
+      "2020-12-08": 51
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://caldav.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/caldav.dylanvanassche.be",
     "slug": "radicale",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 1149,
-    "timeWeek": 1062,
-    "timeMonth": 1062,
-    "timeYear": 1062,
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 1059,
+    "timeDay": 1112,
+    "timeWeek": 1059,
+    "timeMonth": 1059,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2020-12-08": 0
+      "2020-12-08": 50
     }
   },
   {
