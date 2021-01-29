@@ -16,6 +16,8 @@ sites:
     url: https://thesis.dylanvanassche.be
   - name: Sailfinder
     url: https://sailfinder.dylanvanassche.be
+  - name: Daports
+    url: https://repo.dylanvanassche.be
   - name: De Pijl VZW
     url: https://www.de-pijl.be
 
