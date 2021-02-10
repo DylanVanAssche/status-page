@@ -8,7 +8,7 @@
     "uptime": "87.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.25%",
+    "uptimeMonth": "90.28%",
     "uptimeYear": "87.86%",
     "time": 540,
     "timeDay": 388,
@@ -131,10 +131,10 @@
     "url": "https://sailfinder.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/sailfinder.dylanvanassche.be",
     "slug": "sailfinder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 406,
@@ -143,6 +143,7 @@
     "timeMonth": 408,
     "timeYear": 406,
     "dailyMinutesDown": {
+      "2021-02-10": 1,
       "2020-12-09": 96,
       "2020-12-08": 67
     }
@@ -152,9 +153,9 @@
     "url": "https://repo.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/repo.dylanvanassche.be",
     "slug": "daports",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +164,9 @@
     "timeWeek": 723,
     "timeMonth": 663,
     "timeYear": 663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-10": 0
+    }
   },
   {
     "name": "De Pijl VZW",
