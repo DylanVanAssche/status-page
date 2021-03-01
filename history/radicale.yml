@@ -1,7 +1,7 @@
 url: https://caldav.dylanvanassche.be
-status: up
-code: 200
-responseTime: 1259
-lastUpdated: 2021-02-28T23:20:12.838Z
+status: down
+code: 404
+responseTime: 727
+lastUpdated: 2021-03-01T16:29:43.479Z
 startTime: Sat Dec 05 2020 15:35:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
