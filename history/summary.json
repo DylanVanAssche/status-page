@@ -4,18 +4,19 @@
     "url": "https://www.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/www.dylanvanassche.be",
     "slug": "personal-website",
-    "status": "up",
-    "uptime": "91.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "91.28%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.27%",
+    "uptimeYear": "91.28%",
     "time": 526,
     "timeDay": 580,
     "timeWeek": 537,
     "timeMonth": 489,
     "timeYear": 526,
     "dailyMinutesDown": {
+      "2021-03-09": 2,
       "2021-01-13": 1111,
       "2021-01-12": 1440,
       "2021-01-11": 1440,
@@ -62,10 +63,10 @@
     "url": "https://riot.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/riot.dylanvanassche.be",
     "slug": "riot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 747,
@@ -74,6 +75,7 @@
     "timeMonth": 855,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2021-03-09": 2,
       "2021-02-10": 22
     }
   },
@@ -91,7 +93,7 @@
     "time": 1179,
     "timeDay": 1238,
     "timeWeek": 1054,
-    "timeMonth": 1224,
+    "timeMonth": 1181,
     "timeYear": 1179,
     "dailyMinutesDown": {
       "2021-03-02": 34,
@@ -116,10 +118,10 @@
     "url": "https://thesis.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/thesis.dylanvanassche.be",
     "slug": "thesis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 417,
@@ -128,6 +130,7 @@
     "timeMonth": 428,
     "timeYear": 417,
     "dailyMinutesDown": {
+      "2021-03-09": 1,
       "2020-12-09": 96,
       "2020-12-08": 67
     }
@@ -137,10 +140,10 @@
     "url": "https://sailfinder.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/sailfinder.dylanvanassche.be",
     "slug": "sailfinder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 470,
@@ -149,6 +152,7 @@
     "timeMonth": 654,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2021-03-09": 1,
       "2020-12-09": 96,
       "2020-12-08": 67
     }
@@ -158,9 +162,9 @@
     "url": "https://repo.dylanvanassche.be",
     "icon": "https://favicons.githubusercontent.com/repo.dylanvanassche.be",
     "slug": "daports",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,7 +173,9 @@
     "timeWeek": 576,
     "timeMonth": 830,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   },
   {
     "name": "De Pijl VZW",
