@@ -7,7 +7,7 @@ sites:
   - name: Personal website
     url: https://www.dylanvanassche.be
   - name: Matrix
-    url: https://chat.dylanvanassche.be
+    url: https://chat.dylanvanassche.be/_matrix/client/versions
   - name: Riot
     url: https://riot.dylanvanassche.be
   - name: Radicale
